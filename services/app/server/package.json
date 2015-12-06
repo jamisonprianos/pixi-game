@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server for application client requests",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jamison Prianos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "html-minifier": "^1.0.0",
+    "node-sass": "^3.4.2",
+    "uglify-js": "^2.6.1"
+  }
+}
